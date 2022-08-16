@@ -18,4 +18,4 @@ I also have teaching assignments for the University of Rennes 1.
 ### Contact
 
 - arthur.hoarau@univ-rennes1.fr
-- [Link to my LinkedIn](www.linkedin.com/in/arthur-hoarau-b4b228140)
+- [Link to my LinkedIn](http://www.linkedin.com/in/arthur-hoarau-b4b228140)
