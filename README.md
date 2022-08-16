@@ -7,7 +7,7 @@ I also have teaching assignments for the University of Rennes 1.
 
 #### Evidential learning
 - [imperfect_eknn](https://github.com/ArthurHoa/imperfect_eknn) is a python version of the Evidential K-Nearest Neighbors with new parameters. 
-- [conflict_edt](https://github.com/ArthurHoa/conflict_edt) is a new conflict based evidential Decision Tree.
+- [conflict_edt](https://github.com/ArthurHoa/conflict_edt) is a conflict based evidential Decision Tree.
 
 #### Datasets
 - [birds-dataset](https://github.com/ArthurHoa/birds_dataset) is a machine learning dataset with imperfectly labeled images.
