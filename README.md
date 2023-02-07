@@ -11,6 +11,10 @@ I also have teaching assignments for the University of Rennes 1.
 
 #### Datasets
 - [birds_dataset](https://github.com/ArthurHoa/birds_dataset) is a machine learning dataset with imperfectly labeled images.
+- [credal_dog_7](https://github.com/ArthurHoa/credal_dog_7) is a dataset with imperfectly labeled images on 7 breeds of dogs.
+- [credal_dog_4](https://github.com/ArthurHoa/credal_dog_4)  is a dataset with imperfectly labeled images on 4 breeds of dogs.
+- [credal_dog_2](https://github.com/ArthurHoa/credal_dog_2)  is a dataset with imperfectly labeled images on 2 breeds of dogs.
+
 
 #### Other
 - [dimensionality_reduction](https://github.com/ArthurHoa/dimensionality_reduction) is used to reduce the number of variables describing an image.
