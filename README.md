@@ -10,7 +10,6 @@ I also have teaching assignments for the University of Rennes 1.
 - [conflict-edt](https://github.com/ArthurHoa/conflict_edt) is a conflict based evidential Decision Tree.
 
 #### Datasets
-- [birds-dataset](https://github.com/ArthurHoa/birds_dataset) is a machine learning dataset with imperfectly labeled images.
 - [credal-datasets](https://github.com/ArthurHoa/credal-datasets) are machine learning imperfectly labeled datasets with rich labels.
 
 
