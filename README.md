@@ -11,7 +11,7 @@ I also have teaching assignments for the University of Rennes 1.
 
 #### Datasets
 - [birds_dataset](https://github.com/ArthurHoa/birds_dataset) is a machine learning dataset with imperfectly labeled images.
-- [credal_datasets](https://github.com/ArthurHoa/credal_datasets) machine learning imperfectly labeled datasets with rich labels.
+- [credal_datasets](https://github.com/ArthurHoa/credal_datasets) are machine learning imperfectly labeled datasets with rich labels.
 
 
 #### Other
