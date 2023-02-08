@@ -7,7 +7,7 @@ I also have teaching assignments for the University of Rennes 1.
 
 #### Evidential learning
 - [imperfect-eknn](https://github.com/ArthurHoa/imperfect_eknn) is a python version of the Evidential K-Nearest Neighbors with new parameters. 
-- [conflict-edt](https://github.com/ArthurHoa/conflict_edt) is a conflict based evidential Decision Tree.
+- [conflict-edt](https://github.com/ArthurHoa/conflict_edt) is a conflict based Evidential Decision Tree.
 
 #### Datasets
 - [credal-datasets](https://github.com/ArthurHoa/credal-datasets) are machine learning imperfectly labeled datasets with rich labels.
