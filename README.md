@@ -6,16 +6,16 @@ I also have teaching assignments for the University of Rennes 1.
 ### Repositories
 
 #### Evidential learning
-- [imperfect_eknn](https://github.com/ArthurHoa/imperfect_eknn) is a python version of the Evidential K-Nearest Neighbors with new parameters. 
-- [conflict_edt](https://github.com/ArthurHoa/conflict_edt) is a conflict based evidential Decision Tree.
+- [imperfect-eknn](https://github.com/ArthurHoa/imperfect_eknn) is a python version of the Evidential K-Nearest Neighbors with new parameters. 
+- [conflict-edt](https://github.com/ArthurHoa/conflict_edt) is a conflict based evidential Decision Tree.
 
 #### Datasets
-- [birds_dataset](https://github.com/ArthurHoa/birds_dataset) is a machine learning dataset with imperfectly labeled images.
-- [credal_datasets](https://github.com/ArthurHoa/credal_datasets) are machine learning imperfectly labeled datasets with rich labels.
+- [birds-dataset](https://github.com/ArthurHoa/birds_dataset) is a machine learning dataset with imperfectly labeled images.
+- [credal-datasets](https://github.com/ArthurHoa/credal_datasets) are machine learning imperfectly labeled datasets with rich labels.
 
 
 #### Other
-- [dimensionality_reduction](https://github.com/ArthurHoa/dimensionality_reduction) is used to reduce the number of variables describing an image.
+- [dimensionality-reduction](https://github.com/ArthurHoa/dimensionality_reduction) is used to reduce the number of variables describing an image.
 
 ### Contact
 
