@@ -14,7 +14,7 @@ I also have teaching assignments for the University of Rennes 1.
 
 #### Other
 - [python-toolbox](https://github.com/ArthurHoa/python-toolbox) My Python toolbox, many different things.
-- [python-toolbox](https://github.com/ArthurHoa/python-toolbox) C toolbox, teaching ressources, and some usefull stuff .
+- [c-toolbox](https://github.com/ArthurHoa/c-toolbox) C toolbox, teaching ressources, and some usefull stuff .
 - [dimensionality-reduction](https://github.com/ArthurHoa/dimensionality_reduction) is used to reduce the number of variables describing an image.
 
 ### Contact
