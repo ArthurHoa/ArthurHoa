@@ -5,15 +5,16 @@ I also have teaching assignments for the University of Rennes 1.
 
 ### Repositories
 
+#### Datasets
+- [credal-datasets](https://github.com/ArthurHoa/credal-datasets) are machine learning imperfectly labeled datasets with rich labels.
+
 #### Evidential learning
 - [imperfect-eknn](https://github.com/ArthurHoa/imperfect_eknn) is a python version of the Evidential K-Nearest Neighbors with new parameters. 
 - [conflict-edt](https://github.com/ArthurHoa/conflict_edt) is a conflict based Evidential Decision Tree.
 
-#### Datasets
-- [credal-datasets](https://github.com/ArthurHoa/credal-datasets) are machine learning imperfectly labeled datasets with rich labels.
-
-
 #### Other
+- [python-toolbox](https://github.com/ArthurHoa/python-toolbox) My Python toolbox, many different things.
+- [python-toolbox](https://github.com/ArthurHoa/python-toolbox) C toolbox, teaching ressources, and some usefull stuff .
 - [dimensionality-reduction](https://github.com/ArthurHoa/dimensionality_reduction) is used to reduce the number of variables describing an image.
 
 ### Contact
