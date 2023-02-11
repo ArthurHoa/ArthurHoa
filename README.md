@@ -15,7 +15,7 @@ I also have teaching assignments for the University of Rennes.
 #### Other
 - [python-toolbox](https://github.com/ArthurHoa/python-toolbox) my Python toolbox, many different things.
 - [c-toolbox](https://github.com/ArthurHoa/c-toolbox) my C toolbox, teaching ressources, and some usefull stuff.
-- [pokesiea](https://github.com/ArthurHoa/pokesiea) old school game developed when I was younger.
+- [pokesiea](https://github.com/ArthurHoa/pokesiea) old school game developed in C when I was younger.
 - [dimensionality-reduction](https://github.com/ArthurHoa/dimensionality-reduction) is used to reduce the number of variables describing an image.
 
 ### Contact
