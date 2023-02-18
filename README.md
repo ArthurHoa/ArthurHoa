@@ -11,6 +11,7 @@ I also have teaching assignments for the University of Rennes.
 #### Evidential learning
 - [imperfect-eknn](https://github.com/ArthurHoa/imperfect-eknn) is a python version of the Evidential K-Nearest Neighbors with new parameters. 
 - [conflict-edt](https://github.com/ArthurHoa/conflict-edt) is a conflict based Evidential Decision Tree.
+- [evidential-random-forest](https://github.com/ArthurHoa/evidential-random-forest) is an Evidential Random Forest.
 
 #### Other
 - [python-toolbox](https://github.com/ArthurHoa/python-toolbox) my Python toolbox, many different things.
