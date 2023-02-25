@@ -20,7 +20,7 @@ I also have teaching assignments for the University of Rennes.
 - [pokesiea](https://github.com/ArthurHoa/pokesiea) old school game developed in C when I was younger.
 - [dimensionality-reduction](https://github.com/ArthurHoa/dimensionality-reduction) is used to reduce the number of variables describing an image.
 
-### Contact
+### Contacts
 
 - arthur.hoarau@univ-rennes1.fr
 - [Link to my LinkedIn](http://www.linkedin.com/in/arthur-hoarau-b4b228140)
