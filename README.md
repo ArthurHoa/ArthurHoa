@@ -14,6 +14,7 @@ I also have teaching assignments for the University of Rennes.
 - [evidential-random-forest](https://github.com/ArthurHoa/evidential-random-forest) is an Evidential Random Forest.
 
 #### Other
+- [gpu-vs-cpu](https://github.com/ArthurHoa/gpu-vs-cpu) Benchmark on my CPU and GPU, with application on machine learning.
 - [python-toolbox](https://github.com/ArthurHoa/python-toolbox) my Python toolbox, many different things.
 - [c-toolbox](https://github.com/ArthurHoa/c-toolbox) my C toolbox, teaching ressources, and some usefull stuff.
 - [pokesiea](https://github.com/ArthurHoa/pokesiea) old school game developed in C when I was younger.
