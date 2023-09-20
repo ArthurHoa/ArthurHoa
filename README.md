@@ -14,6 +14,7 @@ I also have teaching assignments for the University of Rennes.
 - [evidential-random-forest](https://github.com/ArthurHoa/evidential-random-forest) is an Evidential Random Forest.
 
 #### Other
+- [neural-network-from-scratch](https://github.com/ArthurHoa/neural-network-from-scratch) A neural network in C and Python without frameworks ~~Tensorflow~~ ~~PyTorch~~
 - [gpu-vs-cpu](https://github.com/ArthurHoa/gpu-vs-cpu) Benchmark on my CPU and GPU, with application on machine learning.
 - [python-toolbox](https://github.com/ArthurHoa/python-toolbox) my Python toolbox, many different things.
 - [c-toolbox](https://github.com/ArthurHoa/c-toolbox) my C toolbox, teaching ressources, and some usefull stuff.
@@ -22,5 +23,5 @@ I also have teaching assignments for the University of Rennes.
 
 ### Contacts
 
-- arthur.hoarau@univ-rennes1.fr
+- arthur.hoarau@univ-rennes.fr
 - [Link to my LinkedIn](http://www.linkedin.com/in/arthur-hoarau-b4b228140)
