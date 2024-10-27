@@ -1,7 +1,7 @@
-## Arthur Hoarau GitHub
+## Dr. Arthur Hoarau - GitHub
 
-Hi, I am a PhD Student at IRISA - Université de Rennes 1. Recently graduated from a Master’s degree in engineering, specializing in data science. I have worked for very large French groups as well as for startups, but recently decided to focus on research and teaching. I am Co-Founder and President of ADL.
-I also have teaching assignments for the University of Rennes.
+Hi, I am a PhD in Machine Learning at CNRS Compiègne, I obtained my PhD at the University of Rennes in 2024. I graduated from a Master’s degree in engineering, specializing in data science. I have worked for very large French groups as well as for startups, but eventually I decided to focus on research and teaching. I am Co-Founder and former President of ADL.
+I also had teaching assignments for the University of Rennes.
 
 ### Repositories
 
